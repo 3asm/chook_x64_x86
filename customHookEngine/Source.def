@@ -1,0 +1,6 @@
+LIBRARY	CppHooKDll
+EXPORTS
+   HookAttach
+   HookDetach
+SECTIONS
+	.HKD   Read Write Shared

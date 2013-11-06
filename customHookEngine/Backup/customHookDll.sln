@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "customHookDll", "customHookDll.vcproj", "{34E18BD7-3A23-4DC6-B8B1-7C8C18A5218C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34E18BD7-3A23-4DC6-B8B1-7C8C18A5218C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34E18BD7-3A23-4DC6-B8B1-7C8C18A5218C}.Debug|Win32.Build.0 = Debug|Win32
+		{34E18BD7-3A23-4DC6-B8B1-7C8C18A5218C}.Release|Win32.ActiveCfg = Release|Win32
+		{34E18BD7-3A23-4DC6-B8B1-7C8C18A5218C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
